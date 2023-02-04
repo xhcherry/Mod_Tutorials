@@ -1,6 +1,6 @@
 # xipro破解版使用教程
 
-**游戏更新，破解版已经无法使用，如需继续使用xipro，请购买正版全新永久激活码：https://xhaocherry.xyz/**
+**游戏更新，破解版已经无法使用，如需继续使用gta5线上菜单，请前往卡网购买正版全新永久激活码：https://xhaocherry.xyz/**
 
 文件下载地址：https://wwbu.lanzoum.com/iqZlA0l954wh
 

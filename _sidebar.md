@@ -3,9 +3,9 @@
 <img src=xh1.jpg />
 </div>
 
-  * [🎮 wiki主页](README.md)
-    * [🔥 菜单状态](wiki/state.md)
-    * [🌐 菜单官网](wiki/website.md)
+* [🎮 wiki主页](README.md)
+  * [🔥 菜单状态](wiki/state.md)
+  * [🌐 菜单官网](wiki/website.md)
 * [♥ 菜单推荐](mod/README.md)
   * [总体推荐](mod/tuijian.md)
   * [GTA5](mod/gta5/README.md)

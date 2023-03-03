@@ -1,9 +1,9 @@
 # darkstar暗星破解版
 
 
-下载链接：https://wwbu.lanzoum.com/islyd0mxav3a
+下载链接：<a href="GTA5/pojieban/暗星V2.29破解版.zip" target="_blank">暗星V2.29破解版.zip</a>
 
-这是暗星最新版2.27版本的破解版并且完全可用
+这是暗星最新版2.29版本的破解版并且完全可用
 
 使用教程：将压缩包完全解压出来
 

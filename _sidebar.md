@@ -28,7 +28,7 @@
     * [Oregon](mod/rdr2/oregon.md)
     * [Prime-至尊](mod/rdr2/prime.md)
     * [OXcheats](mod/rdr2/oxcheats.md)
-  * [buy | 点击购买](https://xhaocherry.xyz/)
+  * [buy | 点击购买](https://xhaomenu.xyz/)
 * 🔨 解压教程/辅助出现错误必看
   * [下载辅助压缩包解压教程](solve/jieya.md)
   * [注入失败/游戏闪退](solve/bikan.md)

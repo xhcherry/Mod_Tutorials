@@ -7,7 +7,7 @@
  
  >**若你是移动端，点击左下角三条横扛查看内容**
  
- >**购买地址：</mark>[**https://xhaocherry.xyz/**</mark>](https://xhaocherry.xyz/)**
+ >**购买地址：</mark>[**https://xhaomenu.xyz/**</mark>](https://xhaomenu.xyz/)**
  
  >**本网站教程编写者QQ：2036201905， 如有问题请及时提出**
 

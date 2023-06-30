@@ -1,6 +1,6 @@
 # ❌ 解封教程
 
-在本店[xhaocherry.xyz](xhaocherry.xyz)购买序列号后可联系客服qq:2036201905免费代解封
+在本店[xhaomenu.xyz](xhaomenu.xyz)购买代解封后可联系客服qq:2036201905赠送序列号
 
 **访问r星官网并登陆**[https://socialclub.rockstargames.com/](https://socialclub.rockstargames.com/)
 
@@ -74,6 +74,6 @@
 
 **输入序列号激活那一步，填写卡网得到的序列号即可（若提示激活不了/激活码无效请更换不同加速器多试试，不是序列号的问题，切记查看输入进去的序列号是否存在空格）**
 
-**序列号购买地址：**[https://xhaocherry.xyz/](https://xhaocherry.xyz/) **进入网站后选择黑号/解封/服务 - steam版解封序列号**
+**序列号购买地址：**[https://xhaomenu.xyz/](https://xhaomenu.xyz/) **进入网站后选择账号/解封/服务 - steam版解封序列号（若购买代解封服务免费赠送一个序列号）**
 
 **至此，解封步骤完成**

@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://docs.xhcheats.cn/#/">
-<img src=xh1.jpg />
+<img src=https://pic.xhcheats.cn/assets/2023/12/24/023626.png />
 </div>
 
 * [🎮 主页](README.md)

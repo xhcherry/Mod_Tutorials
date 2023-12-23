@@ -1,4 +1,4 @@
-![](xh1.jpg)
+![](https://pic.xhcheats.cn/assets/2023/12/24/023626.png)
 
 # [**XH 教程**](?id=XH教程)
 

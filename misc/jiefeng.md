@@ -22,7 +22,7 @@
 
 ![](<../.gitbook/assets/image (141).png>)
 
-**注：若出现下方情况用           vpn或者机场（俗称翻墙）或者给rockstar平台加速         刷新页面重新提交**
+**注：若出现下方情况用vpn或者机场（俗称翻墙）或者给rockstar平台加速刷新页面重新提交**
 
 ![](<../.gitbook/assets/image (135).png>)
 

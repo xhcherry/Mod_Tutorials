@@ -16,4 +16,4 @@
 
 **不错的防护与崩溃**
 
-![](../../.gitbook/assets/oxRDR.png)
+![](https://pic.xhcheats.cn/assets/2024/01/03/204851.png)

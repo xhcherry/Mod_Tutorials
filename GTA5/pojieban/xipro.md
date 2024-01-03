@@ -4,8 +4,6 @@
 
 文件下载地址：https://wwbu.lanzoum.com/iqZlA0l954wh
 
-<video src="/image/xp/xipro.mp4" width="1200px" height="720px" controls="controls"></video>
-
 如果你注入游戏就闪退，查看此链接[闪退必看](/solve/bikan.md)
 
 其他破解辅助下载链接在左边栏查看

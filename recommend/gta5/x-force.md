@@ -12,4 +12,4 @@
 
 **配合插件可以跳前置**
 
-![](../../.gitbook/assets/X-Force.jpg)
+![](https://pic.xhcheats.cn/assets/2024/01/03/213234.png)

@@ -24,9 +24,7 @@
 
 **高度自定义主题非常简单且花样多，能变成你喜欢的样子![例如动漫风]**
 
-![](../../.gitbook/assets/stand1.jpg)
+![](https://pic.xhcheats.cn/assets/2024/01/03/213207.png)
 
-![](../../.gitbook/assets/Stand.png)
-
-![](../../.gitbook/assets/Stand版本区别.png)
+![](https://pic.xhcheats.cn/assets/2024/01/03/213129.png)
 

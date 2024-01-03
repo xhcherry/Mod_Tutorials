@@ -21,4 +21,4 @@
 
 **双开或者多开兼容性高**
 
-![](../../.gitbook/assets/oxGTA.png)
+![](https://pic.xhcheats.cn/assets/2024/01/03/212207.png)

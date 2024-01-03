@@ -16,4 +16,4 @@
 
 **完美兼容任务，做差事任务无BUG**
 
-![](../../.gitbook/assets/幻影.jpg)
+![](https://pic.xhcheats.cn/assets/2024/01/03/212303.png)

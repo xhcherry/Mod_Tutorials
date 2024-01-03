@@ -22,7 +22,5 @@
 
 **有ASI以及Lua脚本支持，附带任务脚本，一键改分红跳前置**
 
-![](../../.gitbook/assets/cherax1.png)
-
-![](../../.gitbook/assets/Cherax功能.png)
+![](https://pic.xhcheats.cn/assets/2024/01/03/210155.png)
 

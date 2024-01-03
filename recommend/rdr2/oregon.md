@@ -23,6 +23,4 @@
 具备刷出动物/拾取物/草药
 
 功能图
-![](../../image/oregon/oregon.jpg)
-
-<video src="/image/oregon/oregon.mp4" width="1200px" height="720px" controls="controls"></video>
+![](https://pic.xhcheats.cn/assets/2024/01/03/204812.png)

@@ -18,6 +18,8 @@ Stand：[https://stand.gg](https://stand.gg)
 
 北域：[https://north.lol/](https://north.lol/)
 
+弗利萨：[https://dash.friezamenu.com/](https://dash.friezamenu.com/)
+
 Cherax：[https://cherax.menu/](https://cherax.menu)
 
 幻影VK社区：[https://vk.com/phantomcommunity](https://vk.com/phantomcommunity)
@@ -28,11 +30,7 @@ Midnaght-午夜：[https://midnight.im](https://midnight.im)
 
 黄昏：[https://nfcheats.com/](https://nfcheats.com/)
 
-xipro：[https://holywu.xyz/](https://holywu.xyz/)
-
 0Xcheats：[https://0xcheats.net/](https://0xcheats.net/)
-
-暗星：[https://darkstarvip.com/](https://darkstarvip.com/)
 
 Soviet：[https://sovietcheats.com/](https://sovietcheats.com/)
 
@@ -56,10 +54,18 @@ PRIME/摸金校尉：无
 
 Exodus：[https://exodusmenu.com](https://exodusmenu.com)
 
+Fortitude丨勇者官网：[https://fortitudemod.com/](https://fortitudemod.com/)
+
+Lucia丨露西亚官网：[https://luciamenu.com/](https://luciamenu.com/)
+
+Oregon官网：[https://oregonmenu.com/](https://oregonmenu.com/)
+
 Fikit：[https://www.fikitcheats.com](https://www.fikitcheats.com)
 
 0Xcheats：[https://0xchats.net](https://0xcheats.net)
 
 红石：[https://w1tch.net/](https://w1tch.net/)
+
+
 
 <!-- tabs:end -->

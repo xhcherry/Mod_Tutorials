@@ -32,4 +32,4 @@
 
 **子处理数据包括 [摩托车] [MK2暴君] [船] [飞行器] [飞机] [直升机] [喷气背包] [坦克]**
 
-![](../../.gitbook/assets/North.png)
+![](https://pic.xhcheats.cn/assets/2024/01/03/212109.png)

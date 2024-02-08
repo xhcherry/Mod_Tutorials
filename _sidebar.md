@@ -119,6 +119,7 @@
     * [注入时错误提示](GTA5/Disturbed/uowutishi.md)
     * [解绑教程](GTA5/Disturbed/hwid.md)
 * [破解版免费版辅助教程](GTA5/pojieban/README.md)
+  * [空灵破解版](GTA5/pojieban/ethereal.md)
   * [darkstar破解版](GTA5/pojieban/darkstar.md)
   * [xipro破解版](GTA5/pojieban/xipro.md)
   * [sasavn破解版](GTA5/pojieban/sasavn.md)
